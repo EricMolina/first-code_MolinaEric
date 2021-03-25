@@ -62,7 +62,7 @@ body {
     text-align: center;
     background-image: url('../img/header.jpeg');
     background-size: cover;
-    padding: 100px;
+    padding: 30vh 100px;
 }
 
 #header h1 {
