@@ -1,0 +1,15 @@
+Crear directorios y archivos
+CARPETAS:
+    css (para hojas de estilo css)
+    img (para archivos de imagenes)
+
+Información extra:
+    - en VSC, si escribimos una etiqueta sin <> 
+      y le damos a enter, se nos crea una base sobre esta mismma línea.
+    
+    - Crear una hoja de estilos y unirla al index.html
+    - Escribir los comandos básicos de css.
+
+    BODY:
+    - Comenzar organizandote con el header.
+    
