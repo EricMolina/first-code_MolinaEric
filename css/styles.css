@@ -22,7 +22,7 @@ body {
 }
 
 .relleno-columnas {
-    padding: 20px;
+    padding-right: 20px;
 }
 
 
@@ -140,5 +140,8 @@ body {
     #section-4 column-4 {
         width: 50%;
         text-align: center;
+    }
+    .gallery {
+        width: 50%;
     }
 }
